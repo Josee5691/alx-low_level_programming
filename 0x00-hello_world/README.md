@@ -6,3 +6,4 @@
 5-printf.c prints a statement using printf
 6-size.c prints sizes of different data types
 100-intel  generates the assembly code (Intel syntax) of a C code and save it in an output file.
+101-quote.c prints a string  followed by a new line, to the standard error.
