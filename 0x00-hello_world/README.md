@@ -5,3 +5,4 @@
 4-puts.c prints a text using puts
 5-printf.c prints a statement using printf
 6-size.c prints sizes of different data types
+100-intel  generates the assembly code (Intel syntax) of a C code and save it in an output file.
