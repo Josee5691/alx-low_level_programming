@@ -3,7 +3,7 @@
 
 /**
  * print_to_98 - count to 98
- * n: variable to determine if input is greater than, less than or is 98
+ * @n: variable to determine if input is greater than, less than or is 98
  *
  */
 
