@@ -7,8 +7,6 @@
 
 void print_diagonal(int n)
 {
-void print_diagonal(int n)
-{
 int x;
 int y;
 if (n <= 0)
