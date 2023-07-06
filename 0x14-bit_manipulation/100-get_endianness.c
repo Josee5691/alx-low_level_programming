@@ -8,6 +8,6 @@
 int get_endianness(void)
 {
 	unsigned int val = 1;
-	unsigned char *byte_ptr = (unsigned char *) & value;
+	unsigned char *byte_ptr = (unsigned char *) & val;
 	return (byte_ptr[0] == 1) ? 1 : 0;
 }
