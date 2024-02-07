@@ -1,4 +1,4 @@
-i#ifndef SEARCH_ALGORITHM
+#ifndef SEARCH_ALGORITHM
 #define SEARCH_ALGORITHM
 
 #include <stdio.h>
